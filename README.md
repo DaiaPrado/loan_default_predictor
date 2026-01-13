@@ -19,6 +19,7 @@ Given a client with an active credit account, the goal of this project is to pre
 - Feature importance and interpretability analysis.
 
 **Outcome**
+
 The final model provides: 
 - 
 
