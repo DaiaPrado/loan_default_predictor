@@ -5,7 +5,8 @@ Financial institutions need to anticipate credit risk in order to take proactive
 The ability to predict whether a client will default on their next payment allows banks to intervene early through risk mitigation strategies such as customer outreach, credit restructuring, or reserve planning. 
 
 **Objective**
-Given a client with an active credit account, the goal of this project is to predict whether the client is likely to default on their next payment based on historical and behavioral features. 
+
+Given a client with an active credit account, the goal of this project is to predict whether the client is likely to default on their next payment based on behavioral features. 
 
 **Key Questions**
 - Will the client default on their next payment?
@@ -19,6 +20,7 @@ Given a client with an active credit account, the goal of this project is to pre
 - Feature importance and interpretability analysis.
 
 **Outcome**
+
 The final model provides: 
 - 
 
