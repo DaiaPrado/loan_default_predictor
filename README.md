@@ -22,7 +22,7 @@ Given a client with an active credit account, the goal of this project is to pre
 **Outcome**
 
 The final model provides: 
--  2 models with a 100% accuracy that predict the probability of a client to default its payment.
+-  2 models: Logistic Regression, XGBoost, that predict the probability of a client to default its payment.
 -  A list of features that where the most important for the training. 
 
 ## Tech Stack
