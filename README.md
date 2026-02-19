@@ -23,6 +23,7 @@ Given a client with an active credit account, the goal of this project is to pre
 
 The final model provides: 
 -  2 models: Logistic Regression, XGBoost, that predict the probability of a client to default its payment.
+-  Final model with 84% of recall over default clients.
 -  A list of features that where the most important for the training. 
 
 ## Tech Stack
